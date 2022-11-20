@@ -1,0 +1,1 @@
+這個目錄下程式為Log測試專案 並不是Kway Monitor專案
